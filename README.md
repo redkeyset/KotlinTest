@@ -7,3 +7,5 @@ This is the Kotlin test project
 
 工厂模式 （Java 、Kotlin）
 
+构建者模式 （Java 、Kotlin）
+
