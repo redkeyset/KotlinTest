@@ -5,3 +5,5 @@ This is the Kotlin test project
 
 单例模式 （Java 、Kotlin）
 
+工厂模式 （Java 、Kotlin）
+
